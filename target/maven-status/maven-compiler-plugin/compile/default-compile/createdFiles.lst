@@ -1,0 +1,3 @@
+com\test\model\Item.class
+com\test\controller\ItemController.class
+com\test\dao\ItemDAO.class
